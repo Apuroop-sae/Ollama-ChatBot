@@ -5,11 +5,17 @@ A conversational AI chatbot built with Python, Streamlit, and Ollama, supporting
 The project provides an interactive chat interface where users can communicate with locally hosted LLMs through Ollama, allowing experimentation with different models without relying on external LLM APIs.
 
 Features
+
 🤖 Chat with locally hosted Qwen and Llama models
+
 💻 Runs LLM inference locally using Ollama
+
 🖥️ Interactive web interface built with Streamlit
+
 🔄 Easy to switch between supported models
+
 🔒 No external API key required for local model inference
+
 Tech Stack
 Python
 Streamlit

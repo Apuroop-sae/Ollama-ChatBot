@@ -19,6 +19,6 @@ Llama
 uv for Python package and environment management
 
 
-Please install required packages and install illama for Local LLMs
+Please install required packages and install Ollama for accessing Local LLMs
 
-install Qwen and Llama model by "illama pull modelname"
+install Qwen and Llama model by "Ollama pull modelname"
